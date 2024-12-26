@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "uXQHZ1/+5DyGwYne/h9nRZr18st8HseIvAjvzO/nGpErDlVfWVSG+C1ukN8pxGOFSXbVZswXLEhF7XG968hMhw==",
+  "success": true,
+  "projectFilePath": "/Users/artemdwightm1/RiderProjects/lab3_2kyrs/lab3_2kyrs/lab3_2kyrs.csproj",
+  "expectedPackageFiles": [
+    "/Users/artemdwightm1/.nuget/packages/sixlabors.fonts/2.0.4/sixlabors.fonts.2.0.4.nupkg.sha512",
+    "/Users/artemdwightm1/.nuget/packages/sixlabors.imagesharp/3.1.5/sixlabors.imagesharp.3.1.5.nupkg.sha512",
+    "/Users/artemdwightm1/.nuget/packages/sixlabors.imagesharp.drawing/2.1.4/sixlabors.imagesharp.drawing.2.1.4.nupkg.sha512",
+    "/Users/artemdwightm1/.nuget/packages/system.drawing.common/9.0.0-rc.2.24474.1/system.drawing.common.9.0.0-rc.2.24474.1.nupkg.sha512"
+  ],
+  "logs": []
+}
